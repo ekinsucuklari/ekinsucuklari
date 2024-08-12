@@ -1,3 +1,8 @@
+
+
+
+<img src="https://github.com/user-attachments/assets/bd664892-b0e3-4ec1-8f8d-2a177258bca9" width="700" height="300" />
+
 <h1 align="center">Hi 👋, I'm Ekinsu Eylül ASLAN</h1>
 <h3 align="center">A software engineer who is passionate with backend development.</h3>
 

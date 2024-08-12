@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Ekinsu</h1>
 <h3 align="center">A software engineer who is passionate with backend development.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekinsucuklari&label=Profile%20views&color=0e75b6&style=flat" alt="ekinsucuklari" /> </p>
 
 - 🔭 I’m currently focused on backend programming and data analysis.

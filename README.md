@@ -7,9 +7,9 @@
 
 - 🎮 A Passionate Game Designer!
 
-🔭 I’m currently exploring game design topics.
-🌱 I’m deepening my knowledge in game development.
-⚡ Fun fact: I have a creative side and enjoy working on pixel art!
+- 🔭 I’m currently exploring game design topics.
+- 🌱 I’m deepening my knowledge in game development.
+- ⚡ Fun fact: I have a creative side and enjoy working on pixel art!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
